@@ -1,5 +1,5 @@
-const Favorite_Nunber : number = 7;
+const Favorite_Number : number = 7;
 
-const message : string = 'here is youu favorite number ' + Favorite_Nunber;
+const message : string = 'here is your favorite number ' + Favorite_Number;
 
 console.log(message);
